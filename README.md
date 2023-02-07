@@ -2,9 +2,9 @@
  A web application developed using JAVA (Java Server Pages) and MySQL as Banking Portal for starTrustBank, a fictional Banking Institution. The application is considered to be a portal and consists of functionalities that are intended for 3 different audience classes (Customers, Managers and System Administrators) where the functionalities have been isolated using an authentication mechanism to allow specific intended parties to allow access to their intended operations. The application consists of full-fledged functionalities that are considered as fundamnetal day-to-day banking operations. 
  
  # Functionalities
- -Common Functionalties-
- -Authentication-
-  -Login: All three users (Customers, Managers and System Administrators) are required to sign in into the system to use it. While Managers and Administrators are provided with their login information from within the organization, Customers can register using a supplied account number from the organization.
+ - Common Functionalties-
+ - Authentication-
+  - Login: All three users (Customers, Managers and System Administrators) are required to sign in into the system to use it. While Managers and Administrators are provided with their login information from within the organization, Customers can register using a supplied account number from the organization.
  - Customer Functionalities-
   - Authentication-
    - Registration: Users can register using a supplied account number from the organization.
