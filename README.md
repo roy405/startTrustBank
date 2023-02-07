@@ -3,8 +3,8 @@
  
  # Functionalities
  - Common Functionalties-
- - Authentication-
-  - Login: All three users (Customers, Managers and System Administrators) are required to sign in into the system to use it. While Managers and Administrators are provided with their login information from within the organization, Customers can register using a supplied account number from the organization.
+  - Authentication-
+   - Login: All three users (Customers, Managers and System Administrators) are required to sign in into the system to use it. While Managers and Administrators are provided with their login information from within the organization, Customers can register using a supplied account number from the organization.
  - Customer Functionalities-
   - Authentication-
    - Registration: Users can register using a supplied account number from the organization.
